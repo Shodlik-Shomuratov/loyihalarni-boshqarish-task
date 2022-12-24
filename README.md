@@ -1,1 +1,1 @@
-# loyihalarni-boshqarish-task
+# Loyihalarni boshqarish task
